@@ -1,0 +1,14 @@
+__pycache__/
+.ipynb_checkpoints/
+
+.venv/
+venv/
+
+*.db
+*.sqlite
+
+*.pyc
+
+.DS_Store
+
+.env

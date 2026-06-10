@@ -1,3 +1,12 @@
+"""
+Mutual Fund Analytics Capstone
+
+Author: Ritik Kumar
+
+Description:
+Mutual fund performance and risk analytics.
+"""
+
 from pathlib import Path
 import sqlite3
 import pandas as pd

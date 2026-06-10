@@ -1,3 +1,12 @@
+"""
+Mutual Fund Analytics Capstone
+
+Author: Ritik Kumar
+
+Description:
+Mutual fund performance and risk analytics.
+"""
+
 CREATE TABLE dim_fund (
     amfi_code TEXT PRIMARY KEY,
     scheme_name TEXT NOT NULL,
