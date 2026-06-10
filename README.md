@@ -93,6 +93,10 @@ Reports/
 * Portfolio Optimization
 * Investor Segmentation
 
+## Live Dashboard
+
+Dashboard Link: https://app.powerbi.com/links/4mqN8CBXXK?ctid=edc5c3bf-4ab5-4697-84fa-41b44eb08b5e&pbi_source=linkShare&bookmarkGuid=5da124ea-dc52-47d1-a21e-6c253a32407b
+
 ## Author
 
 Ritik Kumar
