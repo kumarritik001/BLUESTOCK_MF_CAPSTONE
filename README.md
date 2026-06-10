@@ -97,4 +97,4 @@ Reports/
 
 Ritik Kumar
 
-![alt text](image.png)
+![Dashboard](Reports/dashboard_preview.png)
